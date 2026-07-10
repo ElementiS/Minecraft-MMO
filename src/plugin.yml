@@ -1,0 +1,5 @@
+name: Plugin1
+version: 1.0
+author: elementis
+api-version: '1.21'
+main: fr.elementis.Plugin1.Main
